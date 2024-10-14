@@ -1,1 +1,0 @@
-# Download all files by clicking CODE and then DOWNLOAD .ZIP, then extract the files in documents folder on computer by right clicking .ZIP file and "EXTRACT ALL", setting the destination to documents (can be downloaded anywhere but documents help keep it all organized), finally open index.html to initiate the webpage
